@@ -29,7 +29,7 @@ This repository contains my solutions to Verilog HDL problems from **https://hdl
 
 ## 📂 Repository Structure
 
-Solutions are organized according to the topics and problem categories available on HDLBits, making them easier to navigate and review.
+Solutions are organized according to the topics and problem categories available on HDL2chips, making them easier to navigate and review.
 
 ## 📌 Note
 
