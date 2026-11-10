@@ -1,4 +1,4 @@
-# HDL2Chips-Verilog-Solutions
+# HDL2Chips Verilog Solutions
 
 Welcome to my **HDL2Chips Verilog Solutions** repository!
 
