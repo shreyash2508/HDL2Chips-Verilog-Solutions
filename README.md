@@ -29,11 +29,11 @@ This repository contains my solutions to Verilog HDL problems from **https://hdl
 
 ## 📂 Repository Structure
 
-Solutions are organized according to the topics and problem categories available on HDL2chips, making them easier to navigate and review.
+Solutions are organized according to the Difficulty level mentioned in HDL2Chipss and name are also exactly same as that in Website, making them easier to navigate and review.
 
 ## 📌 Note
 
-This repository represents my learning journey in Verilog and VLSI design. Solutions may be updated and improved as I explore better coding practices and design approaches.
+This repository represents my learning journey in Verilog . Solutions may be updated and improved as I explore better coding practices and design approaches.
 
 If you are also learning Verilog, feel free to explore the solutions and use them as a reference!
 
