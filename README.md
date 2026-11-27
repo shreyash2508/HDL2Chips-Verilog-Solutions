@@ -34,7 +34,6 @@ Solutions are organized according to the Difficulty level mentioned in HDL2Chips
 ## 📌 Note
 
 This repository represents my learning journey in Verilog . Solutions may be updated and improved as I explore better coding practices and design approaches.
-
 If you are also learning Verilog, feel free to explore the solutions and use them as a reference!
 
 ---
